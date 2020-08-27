@@ -51,10 +51,10 @@ The training data is split in train and validation data in the ratio 80:20 using
 
 Convolution neural network is implemented to detect and display the keypoints. The model consists of the following layers:
 
-  5 convolution layers with kernel size 5x5
-  5 Max pooling layers with kernel size 2x2 and stride of 2
-  3 Fully connected linear layers
-  Dropout layers
+  * 5 convolution layers with kernel size 5x5
+  * 5 Max pooling layers with kernel size 2x2 and stride of 2
+  * 3 Fully connected linear layers
+  * Dropout layers
   
 The Adam optimizer with MSE loss function is used with a batch size of 32 for training, 10 for validation and testing data. The model is trained for 100 epochs and the learning curve is plotted.
 
