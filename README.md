@@ -61,20 +61,24 @@ The Adam optimizer with MSE loss function is used with a batch size of 32 for tr
 
 The test images are available in the directory "test_data_images". Face detection is performed on the random test images choosen, data transformation is performed, the trained model is evaluated and keypoints are displayed as seen in the image below.
 
+<img src="https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/test_image1.png" width="300" align=right>
+
 ![alt text](https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/test_image1.png?raw=true)
 
 ![alt text](https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/test_result1.png?raw=true)
 
 ## Live Colab Code 
 
-1. Load and Visualize Data.ipynb: https://colab.research.google.com/drive/16HWTOyHppEPhO8iv6e3zoPi5W572URq7?usp=sharing
+1.Load and Visualize Data.ipynb: https://colab.research.google.com/drive/16HWTOyHppEPhO8iv6e3zoPi5W572URq7?usp=sharing
 
 2_Define_the_Network_Architecture.ipynb: https://colab.research.google.com/drive/1MbrvwO5J-zJ4hKdAdNkUpnTgnqGb5X2R?usp=sharing
 
 3_Facial_Keypoint_Detection_Complete_Pipeline.ipynb: https://colab.research.google.com/drive/1MUWdL7JRDHDyDZPJwugTydrbXQiMYDYs?usp=sharing
 
 
-## Citation: Computer Vision Nanodegree, Udacity
+## Citation: 
+
+Computer Vision Nanodegree, Udacity
 
 
 
