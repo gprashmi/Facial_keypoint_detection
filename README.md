@@ -5,7 +5,8 @@ To identify the vital areas in the face through keypoint detection to understand
 Facial keypoints (also called facial landmarks) are the small magenta dots shown on each of the faces in the image below. In each training and test image, 
 there is a single face and 68 keypoints, with coordinates (x, y), for that face. These keypoints mark important areas of the face: the eyes, corners of the mouth, the nose, etc. 
 
-![alt text](https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/key_pts_example.png?raw=true)
+<img src="https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/key_pts_example.png" width="300" height="300" align=center>
+
 
 ## Requirements
 
@@ -61,11 +62,10 @@ The Adam optimizer with MSE loss function is used with a batch size of 32 for tr
 
 The test images are available in the directory "test_data_images". Face detection is performed on the random test images choosen, data transformation is performed, the trained model is evaluated and keypoints are displayed as seen in the image below.
 
-<img src="https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/test_image1.png" width="300" align=right>
+<img src="https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/test_image1.png" width="300" height="300" align=center>
 
-![alt text](https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/test_image1.png?raw=true)
+<img src="https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/test_result1.png" width="300" height="300" align=center>
 
-![alt text](https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/test_result1.png?raw=true)
 
 ## Live Colab Code 
 
