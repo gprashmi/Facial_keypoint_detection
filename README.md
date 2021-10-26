@@ -67,14 +67,6 @@ The test images are available in the directory "test_data_images". Face detectio
 <img src="https://github.com/gprashmi/Facial_keypoint_detection/blob/master/images/test_result1.png" width="400" height="200">
 
 
-## Live Colab Code 
-
-1.Load and Visualize Data.ipynb: https://colab.research.google.com/drive/16HWTOyHppEPhO8iv6e3zoPi5W572URq7?usp=sharing
-
-2_Define_the_Network_Architecture.ipynb: https://colab.research.google.com/drive/1MbrvwO5J-zJ4hKdAdNkUpnTgnqGb5X2R?usp=sharing
-
-3_Facial_Keypoint_Detection_Complete_Pipeline.ipynb: https://colab.research.google.com/drive/1MUWdL7JRDHDyDZPJwugTydrbXQiMYDYs?usp=sharing
-
 
 ## Citation: 
 
